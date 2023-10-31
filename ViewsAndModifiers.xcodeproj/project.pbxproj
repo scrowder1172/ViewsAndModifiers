@@ -34,6 +34,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		52537A722AF142340093D751 /* TutorialFiles */ = {
+			isa = PBXGroup;
+			children = (
+				52C137232ADF16BB004059F7 /* ExampleViews.swift */,
+			);
+			path = TutorialFiles;
+			sourceTree = "<group>";
+		};
 		52C137092ADF0D78004059F7 = {
 			isa = PBXGroup;
 			children = (
@@ -56,8 +64,8 @@
 				52C137152ADF0D78004059F7 /* ViewsAndModifiersApp.swift */,
 				52C137172ADF0D78004059F7 /* ContentView.swift */,
 				52C137192ADF0D79004059F7 /* Assets.xcassets */,
+				52537A722AF142340093D751 /* TutorialFiles */,
 				52C1371B2ADF0D79004059F7 /* Preview Content */,
-				52C137232ADF16BB004059F7 /* ExampleViews.swift */,
 			);
 			path = ViewsAndModifiers;
 			sourceTree = "<group>";
